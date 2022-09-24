@@ -1,4 +1,4 @@
-package cwh;
+package cwh.Abstraction;
 
 public class Child2 extends Parent2 {
 

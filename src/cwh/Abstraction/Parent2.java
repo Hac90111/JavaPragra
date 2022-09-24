@@ -1,4 +1,4 @@
-package cwh;
+package cwh.Abstraction;
 
 public abstract class Parent2 {
     public Parent2() {
