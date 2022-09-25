@@ -1,12 +1,9 @@
+import java.util.HashSet;
+import java.util.Set;
+
 public class Demo {
 
     public static void main(String[] args) {
-
-        System.out.println("Hello");
-        System.out.println(summation(5,2));
-        System.out.println(substraction(5,2));
-        System.out.println(multiplication(5,2));
-        System.out.println(division(5,2));
 
     }
     public static int summation(int a, int b) {

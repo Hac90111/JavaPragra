@@ -10,7 +10,7 @@ public class Person {
     }
 
     // Constructor to create a person
-    public Person(){}
+    public Person(String zbc, int i){}
 
     // method to change the address
     public String changeAddress(String address){
