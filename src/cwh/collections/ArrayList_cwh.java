@@ -3,8 +3,6 @@ import java.util.*;
 
 public class ArrayList_cwh {
     public static void main(String[] args) {
-
-        //ArrayList
         ArrayList<Integer> l1= new ArrayList<>();  // Dynamic array, min Capacity by default 10
         ArrayList<Integer> l2= new ArrayList<>(5);  //providing initial capacity
 
